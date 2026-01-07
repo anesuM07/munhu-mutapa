@@ -1,0 +1,7 @@
+{
+  "name": "Munhu Mutapa",
+  "description": "An interactive, AI-powered educational knowledge navigator that uses multi-modal search and visual concept maps to guide students through personalized learning paths.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
